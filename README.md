@@ -29,3 +29,11 @@
 🧊 : ice_cube
 
 💙 : blue_heart
+
+
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-Z (undo)
+- Ctrl-A (select all)
