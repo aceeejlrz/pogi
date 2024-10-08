@@ -21,6 +21,8 @@
 
 [This Copyright Lawsuit Could Shape the Future of Generative AI](https://www.wired.com/story/this-copyright-lawsuit-could-shape-the-future-of-generative-ai/)
 
+[ls cat](https://github.dev/aceeejlrz/pogi)
+
 
 \# Emoji
 
