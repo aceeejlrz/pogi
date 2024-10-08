@@ -21,7 +21,6 @@
 
 [This Copyright Lawsuit Could Shape the Future of Generative AI](https://www.wired.com/story/this-copyright-lawsuit-could-shape-the-future-of-generative-ai/)
 
-[ls cat](https://github.dev/aceeejlrz/pogi)
 
 
 \# Emoji
@@ -43,3 +42,5 @@ Shortcuts I frequently use:
 Shortcuts I would like to start using: 
 - Ctrl-F (Find)
 - Ctrl-H (Replace)
+
+[CLI commands](docs/cli.md)
